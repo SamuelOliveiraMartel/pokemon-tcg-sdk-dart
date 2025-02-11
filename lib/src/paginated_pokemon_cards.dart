@@ -1,6 +1,5 @@
 import 'package:flutter/foundation.dart';
 import 'package:pokemon_tcg/pokemon_tcg.dart';
-import 'package:pokemon_tcg/src/models/card.dart';
 
 /// An extension of sorts on [PokemonTcgApi] that allows for paginating through
 /// lists of Pokemon cards.
